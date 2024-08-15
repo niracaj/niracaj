@@ -1,6 +1,6 @@
 <html>
 <head>
-     caringforcardano.com
+     https://caringforcardano.com
 </head>
 <body>
     </body>
