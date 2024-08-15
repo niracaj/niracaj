@@ -1,9 +1,9 @@
 <html>
 <head>
-     https://caringforcardano.com
-     https://caringforcardano.com/3DGames
-     https://3dprinting.caringforcardano.com
-     https://glock2021.caringforcardano.com
+     https://caringforcardano.com<br>
+     https://caringforcardano.com/3DGames<br>
+     https://3dprinting.caringforcardano.com<br>
+     https://glock2021.caringforcardano.com<br>
 </head>
 <body>
     </body>
