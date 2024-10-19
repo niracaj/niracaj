@@ -1,7 +1,7 @@
-Anthony Carin
-Address: 30472 120th St, MN 56725
-Phone: 218-416-2271
-Email: niracaj@gmail.com
+                                                    Anthony Carin
+                                          Address: 30472 120th St, MN 56725
+                                                  Phone: 218-416-2271
+                                               Email: niracaj@gmail.com
 
 Digikey, Thief River Falls, MN
 10 years (November 2014 – Present)
@@ -40,17 +40,15 @@ Rutgers University 1989
 
 Passion Project, CaringForCardano stake pool
 3 Years (2021 - Present)
-- Cardano stake pool operator, CARIN
-- Experiments in ECommerce with crypto
+- Cardano stake pool operator, CARIN stake pool
+- Use AI to experiment with ECommerce using crypto
 - Experiments with Ogmios servers to query transaction information
 - Develop automation with cardano-cli to build transactions
-- Experiments with React 3D javascript
+- Use AI to develop React 3D javascript applications
 - Experiments with cardano-wallet server
 
 LinkedIn: https://www.linkedin.com/in/lifeoftony/
 Facebook: https://www.facebook.com/tony.carin/
 GitHub: https://github.com/niracaj/
 Passion Project: http://caringforcardano.com/
-
-
 
