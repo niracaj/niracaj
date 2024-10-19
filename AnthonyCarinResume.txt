@@ -6,46 +6,45 @@
 Digikey, Thief River Falls, MN
 10 years (November 2014 – Present)
 Software Engineer
-- Transformation from legacy monolithic system to micro services
-- Conversion from VAX/VMS to Ubuntu/Linux
-- Develop ECommerce system from order processing, fulfillment, shipping, foreign trade zones, customs
+- Transformation of a legacy monolithic system into micro-services, improving efficiency.
+- Migrated the platform from VAX/VMS to Ubuntu/Linux.
+- Develop E-commerce system encompassing order processing, fulfillment, shipping, foreign trade zones, and customs.
 
 Metlife (Department formerly part of Alico/AIG)
 4 years (September 2010 – August 2014)
 Senior Software Engineer/Subject Matter Expert in Investment Accounting
-- Transitioning from AIG systems to Metlife systems
-- Transformation from VB6 applictions to .NET applications
-- Upgrading from PAM XG to PFI (Investment Accounting application from State Street Bank)
-- Conversion from CAMRA to PFI (PAM For Investments)
-- Transitioning from Charles River Trading System to Black Rock Trading System
+- Facilitated the successful transition from AIG systems to MetLife systems.
+- Transformed VB6 applications to modern .NET applications.
+- Upgraded from PAM XG to PFI (investment accounting application from State Street Bank).
+- Conversion from CAMRA to PFI (PAM For Investments).
+- Transitioning from Charles River Trading System to Black Rock Trading System.
 
 Privately owned S Corporation, Anthony Carin Inc.
 6 years (April 2004 – September 2010)
 Entrepreneur, Software Consultant, Retail shipping store owner
-- Owner of The UPS Store in West Windsor, NJ
-- Developed ECommerce projects
-- Assisted clients in web development
-- Assisted clients in computer operations
+- Owned and operated The UPS Store in West Windsor, NJ.
+- Developed E-commerce projects.
+- Assisted clients in web development.
+- Assisted clients in computer operations.
 
 State Street Bank (formerly Princeton Financial Systems)
 10 years (June 1993 – June 2003)
 Manager, Senior Software Engineer, Software Engineer
-- Manager of the Maintainance Team (6 - 14 developers)
-- Manager of the Business Object SDK Team (3 developers)
-- Senior Software Engineer in the Business Object SDK Team
-- Software Engineer in the Business Object SDK Team
+- Manager of the Maintainance Team (6 - 14 developers).
+- Manager of the Business Object SDK Team (3 developers).
+- Held positions of Senior Software Engineer and Software Engineer in the Business Object SDK Team.
 
 Education: Bachelor's Degree in Computer Science
-Rutgers University 1989
+Rutgers University (1989) 
 
 Passion Project, CaringForCardano stake pool
 3 Years (2021 - Present)
-- Cardano stake pool operator, CARIN stake pool
-- Use AI to experiment with ECommerce using crypto
-- Experiments with Ogmios servers to query transaction information
-- Develop automation with cardano-cli to build transactions
-- Use AI to develop React 3D javascript applications
-- Experiments with cardano-wallet server
+- Cardano stake pool operator (CARIN stake pool) 
+- Explore the use of AI to experiment with E-commerce using cryptocurrencies. 
+- Experiment with Ogmios servers to query transaction information. 
+- Develop automation with cardano-cli to build transactions. 
+- Explore the use of AI to develop React 3D javascript applications. 
+- Experiment with cardano-wallet server. 
 
 LinkedIn: https://www.linkedin.com/in/lifeoftony/
 Facebook: https://www.facebook.com/tony.carin/
