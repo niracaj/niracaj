@@ -6,6 +6,6 @@
      https://glock2021.caringforcardano.com<br>
 </head>
 <body>
-     <img src="http://66.219.5.246/images/scrollingforsale.gif" />
+     <img src="http://216.122.99.142/images/scrollingforsale.gif" />
 </body>
 </html>
