@@ -6,6 +6,8 @@
      https://glock2021.caringforcardano.com<br>
 </head>
 <body>
-     <img src="http://216.122.99.142/images/scrollingforsale.gif" />
+     I created a handful of feminized seeds this past summer and I thought I would try my hand in selling them: 
+
+     https://caringforcardano.com/FeminizedSeeds.html
 </body>
 </html>
