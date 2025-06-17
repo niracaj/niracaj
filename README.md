@@ -11,7 +11,7 @@
      <br>
      https://caringforcardano.com/FeminizedSeeds.html<br>
      <br>
-     These are some Windows 3.1 games that I made years ago:<br>
+     These are some Windows 3.1 games that I made years ago and I found them at archive.org:<br>
      https://archive.org/search?query=%22Anthony+J.+Carin%22
 </body>
 </html>
