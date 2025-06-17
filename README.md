@@ -12,8 +12,6 @@
      https://caringforcardano.com/FeminizedSeeds.html<br>
      <br>
      These are some games that I made years ago:<br>
-     TC Swordplay
-     https://archive.org/search?query=TC+Swordplay<br>
-     
+     https://archive.org/search?query=%22Anthony+J.+Carin%22
 </body>
 </html>
